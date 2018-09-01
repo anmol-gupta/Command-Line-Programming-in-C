@@ -8,6 +8,6 @@ Many programs allow command-line arguments to be specified when they are run. A 
 
 ### How to pass Command Line Argument?
 
-In terminal, type gcc and after that the file you want to compile. For Example - gcc <filename>.
+In terminal, type gcc and after that the file you want to compile. For Example - gcc {filename}.
   
 Now an executable file will be generated namely a.out by default. Again comeback to terminal, and type ./a.out and the next thing you will be watching in terminal will be the program you typed in action.
